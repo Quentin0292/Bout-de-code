@@ -1,0 +1,8 @@
+body { 
+    color: black;
+    background-color: white;
+    background-image: url(/liendelaphoto.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
