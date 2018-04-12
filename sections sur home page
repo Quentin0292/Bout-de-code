@@ -1,0 +1,62 @@
+<section class="first" id="who">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+    </div>
+ </div>
+</section>
+      
+<section class="second" id="skill">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+    </div>
+  </div>
+</section>
+      
+<section class="third" id="exp">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+    </div>
+  </div>
+</section>
+      
+<section class="four" id="contact">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+    </div>
+  </div>
+</section>
+          
+          
+section{
+    height: 900px;
+  }
+  .first{
+    margin-top: 700px;
+    background-color: rgba(236, 240, 241,0.85);
+  }
+  
+  .second{
+    background-color: rgba(44, 62, 80,0.85);
+  } 
+  .third{
+    background-color: rgba(236, 240, 241,0.85);
+  }
+  .four{
+    background-color: rgba(44, 62, 80,0.85);
+  }
